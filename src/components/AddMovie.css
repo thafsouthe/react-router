@@ -1,0 +1,19 @@
+.add-movie-form input,
+.add-movie-form button {
+  padding: 8px 10px;
+  margin: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-movie-form button {
+  background-color: #007BFF;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+
+.add-movie-form button:hover {
+  background-color: #0056b3;
+}

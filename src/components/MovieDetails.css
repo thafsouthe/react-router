@@ -1,0 +1,19 @@
+.back-button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 20px; /* spacing below the button */
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+
+.video-container {
+  margin-top: 20px; /* extra spacing above the video */
+}
